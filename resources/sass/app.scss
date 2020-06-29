@@ -14,3 +14,8 @@ $fa-font-path:"../webfonts";
 
 //admin-lte
 @import '~admin-lte/dist/css/adminlte.css';
+
+.router-link-exact-active{
+    background-color: #3f51b5 !important;
+    color: #fff !important;
+}

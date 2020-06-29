@@ -31219,6 +31219,10 @@ a.text-muted:hover {
   color: #ffffff;
 }@charset "UTF-8";
 
+.red {
+  color: #e3342f;
+}
+
 /*!
  * Font Awesome Free 5.13.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
@@ -48227,5 +48231,10 @@ a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+
+.router-link-exact-active {
+  background-color: #3f51b5 !important;
+  color: #fff !important;
 }
 
